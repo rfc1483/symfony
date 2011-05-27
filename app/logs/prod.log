@@ -1,0 +1,65 @@
+[2011-05-27 07:37:17] request.CRITICAL: Symfony\Component\Config\Exception\FileLoaderImportException: Cannot import resource "'@AcmeDemoBundle/Controller/DemoController.php'" from "'C:\\xampp\\htdocs\\symfony2\\app/config/routing.yml'". (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Component\Config\Loader\FileLoader.php line 74 
+[2011-05-27 07:37:17] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 07:37:43] request.CRITICAL: Symfony\Component\Config\Exception\FileLoaderImportException: Cannot import resource "'@AcmeDemoBundle/Controller/DemoController.php'" from "'C:\\xampp\\htdocs\\symfony2\\app/config/routing.yml'". (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Component\Config\Loader\FileLoader.php line 74 
+[2011-05-27 07:37:43] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 07:37:48] request.CRITICAL: Symfony\Component\Config\Exception\FileLoaderImportException: Cannot import resource "'@AcmeDemoBundle/Controller/DemoController.php'" from "'C:\\xampp\\htdocs\\symfony2\\app/config/routing.yml'". (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Component\Config\Loader\FileLoader.php line 74 
+[2011-05-27 07:37:48] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 07:39:11] request.CRITICAL: Symfony\Component\Config\Exception\FileLoaderImportException: Cannot import resource "'@AcmeDemoBundle/Controller/DemoController.php'" from "'C:\\xampp\\htdocs\\symfony2\\app/config/routing.yml'". (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Component\Config\Loader\FileLoader.php line 74 
+[2011-05-27 07:39:11] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 07:54:17] request.CRITICAL: Symfony\Component\Config\Exception\FileLoaderImportException: Cannot import resource "'@AcmeDemoBundle/Controller/DemoController.php'" from "'C:\\xampp\\htdocs\\symfony2\\app/config/routing.yml'". (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Component\Config\Loader\FileLoader.php line 74 
+[2011-05-27 07:54:17] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:04:17] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:04:17] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:04:17] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:04:17] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:31:38] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:31:38] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:31:38] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:31:38] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:31:53] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:31:53] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:31:53] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:31:53] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:32:29] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:32:29] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:32:29] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:32:29] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:32:32] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:32:32] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:32:32] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:32:32] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:50:31] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:50:31] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:50:31] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:50:31] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:56:19] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:56:19] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:56:19] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:56:19] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 08:56:39] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 08:56:39] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 08:56:39] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 08:56:39] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 09:23:22] request.ERROR: No route found for "GET /hello/amaro" 
+[2011-05-27 09:23:22] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /hello/amaro" (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\RequestListener.php line 115 
+[2011-05-27 09:23:22] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 09:23:43] request.INFO: Matched route "_demo_hello" (parameters: "_controller": "Acme\DemoBundle\Controller\DemoController::helloAction", "name": "amaro", "_route": "_demo_hello") 
+[2011-05-27 09:23:43] request.INFO: Using controller "Acme\DemoBundle\Controller\DemoController::helloAction" 
+[2011-05-27 09:23:43] request.CRITICAL: InvalidArgumentException: The "Acme\DemoBundle\Controller\DemoController" class does not belong to a registered bundle. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\bundles\Sensio\Bundle\FrameworkExtraBundle\View\AnnotationTemplateListener.php line 154 
+[2011-05-27 09:23:43] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 12:20:04] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 12:20:04] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 12:20:04] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 12:20:04] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 12:20:23] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 12:20:23] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 12:20:23] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 12:20:23] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 12:21:10] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 12:21:10] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 12:21:10] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 12:21:10] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 
+[2011-05-27 12:23:10] request.INFO: Matched route "_welcome" (parameters: "_controller": "Acme\DemoBundle\Controller\WelcomeController::indexAction", "_route": "_welcome") 
+[2011-05-27 12:23:10] request.INFO: Using controller "Acme\DemoBundle\Controller\WelcomeController::indexAction" 
+[2011-05-27 12:23:10] request.CRITICAL: InvalidArgumentException: Template name "AcmeDemoBundle:Welcome:index.html.twig" is not valid. (uncaught exception) at C:\xampp\htdocs\symfony2\vendor\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\TemplateNameParser.php line 75 
+[2011-05-27 12:23:10] request.INFO: Using controller "Symfony\Bundle\FrameworkBundle\Controller\ExceptionController::showAction" 

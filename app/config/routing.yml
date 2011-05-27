@@ -1,0 +1,3 @@
+_homepage: 
+  resource: "@VendorHelloBundle/Controller/DefaultController.php"
+  type:     annotation
